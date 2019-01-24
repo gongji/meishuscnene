@@ -1,55 +1,70 @@
 fileFormatVersion: 2
-guid: 761f9f0d73bb2c64d97e98bb44658274
+guid: 931c1e7aa85c35c4781dd9f7f705e011
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: fuwuqi
-    100002: fuwuqi002
-    100004: fuwuqi003
-    100006: jigui001_body
-    100008: jigui001_door
-    100010: jigui001_doorL
-    100012: jigui001_doorR
-    100014: jigui001_entity
-    100016: //RootNode
+    100002: fuwuqi001
+    100004: fuwuqi002
+    100006: fuwuqi003
+    100008: fuwuqi004
+    100010: fuwuqi005
+    100012: jigui001_body
+    100014: jigui001_door
+    100016: jigui001_doorL
+    100018: jigui001_doorR
+    100020: jigui001_entity
+    100022: //RootNode
     400000: fuwuqi
-    400002: fuwuqi002
-    400004: fuwuqi003
-    400006: jigui001_body
-    400008: jigui001_door
-    400010: jigui001_doorL
-    400012: jigui001_doorR
-    400014: jigui001_entity
-    400016: //RootNode
+    400002: fuwuqi001
+    400004: fuwuqi002
+    400006: fuwuqi003
+    400008: fuwuqi004
+    400010: fuwuqi005
+    400012: jigui001_body
+    400014: jigui001_door
+    400016: jigui001_doorL
+    400018: jigui001_doorR
+    400020: jigui001_entity
+    400022: //RootNode
     2100000: jigui001
     2100002: jigui_grid
     2100004: fuwuqi_body
-    2100006: fuwuqi002
-    2100008: fuwuqi003
-    2300000: fuwuqi002
-    2300002: fuwuqi003
-    2300004: jigui001_body
-    2300006: jigui001_door
-    2300008: jigui001_doorL
-    2300010: jigui001_doorR
-    3300000: fuwuqi002
-    3300002: fuwuqi003
-    3300004: jigui001_body
-    3300006: jigui001_door
-    3300008: jigui001_doorL
-    3300010: jigui001_doorR
+    2100006: fuwuqi001
+    2100008: fuwuqi002
+    2300000: fuwuqi001
+    2300002: fuwuqi002
+    2300004: fuwuqi003
+    2300006: fuwuqi004
+    2300008: fuwuqi005
+    2300010: jigui001_body
+    2300012: jigui001_door
+    2300014: jigui001_doorL
+    2300016: jigui001_doorR
+    3300000: fuwuqi001
+    3300002: fuwuqi002
+    3300004: fuwuqi003
+    3300006: fuwuqi004
+    3300008: fuwuqi005
+    3300010: jigui001_body
+    3300012: jigui001_door
+    3300014: jigui001_doorL
+    3300016: jigui001_doorR
     4300000: jigui001_body
     4300002: jigui001_door
     4300004: jigui001_doorL
     4300006: jigui001_doorR
-    4300008: fuwuqi002
-    4300010: fuwuqi003
+    4300008: fuwuqi001
+    4300010: fuwuqi002
+    4300012: fuwuqi003
+    4300014: fuwuqi004
+    4300016: fuwuqi005
   externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

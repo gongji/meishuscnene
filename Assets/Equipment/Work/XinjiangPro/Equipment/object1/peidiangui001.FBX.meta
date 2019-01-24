@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ceac172dbda349242b3ba603e8576b5a
+guid: cb3d8c930d336fd49b95050395a40c37
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -13,17 +13,12 @@ ModelImporter:
     2300000: peidiangui001_body
     3300000: peidiangui001_body
     4300000: peidiangui001_body
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: peidiangui001
-    second: {fileID: 2100000, guid: 59b2514cecab81a4e9325648c949862e, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
