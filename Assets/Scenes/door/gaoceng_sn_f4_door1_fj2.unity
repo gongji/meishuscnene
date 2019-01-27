@@ -152,6 +152,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d061528e019f099449d110347ecb1b6c, type: 3}
+      propertyPath: m_Name
+      value: t_sy_565200_door
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d061528e019f099449d110347ecb1b6c, type: 3}
   m_IsPrefabAsset: 0

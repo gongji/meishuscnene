@@ -3008,7 +3008,7 @@ GameObject:
   m_PrefabInternal: {fileID: 681691496}
 --- !u!1 &681692050 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 101180, guid: a173326ea423775469dbe3202df8a6d5,
+  m_CorrespondingSourceObject: {fileID: 101184, guid: a173326ea423775469dbe3202df8a6d5,
     type: 3}
   m_PrefabInternal: {fileID: 681691496}
 --- !u!1 &681692051 stripped
@@ -10906,7 +10906,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 14
   m_SkinWidth: 0.01
-  m_Mesh: {fileID: 4301162, guid: a173326ea423775469dbe3202df8a6d5, type: 3}
+  m_Mesh: {fileID: 4301164, guid: a173326ea423775469dbe3202df8a6d5, type: 3}
 --- !u!64 &681692633
 MeshCollider:
   m_ObjectHideFlags: 0

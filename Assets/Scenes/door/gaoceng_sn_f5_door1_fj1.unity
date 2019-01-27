@@ -152,6 +152,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a45557f7b4aa26948a8a5ce61dbc6eba, type: 3}
+      propertyPath: m_Name
+      value: l_ay_565454_door
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a45557f7b4aa26948a8a5ce61dbc6eba, type: 3}
   m_IsPrefabAsset: 0
@@ -174,3 +178,20 @@ MeshCollider:
   m_CookingOptions: 14
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: a45557f7b4aa26948a8a5ce61dbc6eba, type: 3}
+--- !u!114 &539612274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 539612271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ffafd7e0a8a70e469450f620b332c02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Type: 0
+  m_RotationAxis: 0
+  m_RotationDirection: 0
+  m_RotationAngle: 90
+  m_TranslatePosition: {fileID: 0}
+  m_TotalInterval: 1

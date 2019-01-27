@@ -595,6 +595,7 @@ ModelImporter:
     101178: Box003
     101180: Box004
     101182: gaoceng_sn_f4_fj2
+    101184: diban002
     400000: 351527
     400002: 351528
     400004: 351529
@@ -1187,6 +1188,7 @@ ModelImporter:
     401178: Box003
     401180: Box004
     401182: gaoceng_sn_f4_fj2
+    401184: diban002
     2100000: No Name
     2100002: 0
     2100004: 27
@@ -1783,6 +1785,7 @@ ModelImporter:
     2301158: diban
     2301160: Box003
     2301162: Box004
+    2301164: diban002
     3300000: 351527
     3300002: 351528
     3300004: 351529
@@ -2365,6 +2368,7 @@ ModelImporter:
     3301158: diban
     3301160: Box003
     3301162: Box004
+    3301164: diban002
     4300000: Box001
     4300002: 367399_door
     4300004: 367575_door
@@ -2947,7 +2951,78 @@ ModelImporter:
     4301158: Capsule001
     4301160: Box003
     4301162: Box004
-  externalObjects: {}
+    4301164: diban002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1253
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1319
+    second: {fileID: 2100000, guid: 1d4d9b9e78b095348868886748f19cbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 132599
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 27
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 325645
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3865
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 426072
+    second: {fileID: 2100000, guid: 728bb2eb9ddd0bb4db99e85606f459e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 438721
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 446216
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 446223
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 82982
+    second: {fileID: 2100000, guid: fcca90b2acc202047bd4a49d09a320d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d86d33015deaad745a6aaeb200a8c293, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

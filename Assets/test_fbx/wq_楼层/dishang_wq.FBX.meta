@@ -3253,6 +3253,7 @@ ModelImporter:
     106494: dishang_wq_f6
     106496: dishang_wq_f7
     106498: dishang_wq_f8
+    106500: camera
     400000: 462357
     400002: 462605
     400004: 462819
@@ -6503,6 +6504,7 @@ ModelImporter:
     406494: dishang_wq_f6
     406496: dishang_wq_f7
     406498: dishang_wq_f8
+    406500: camera
     2100000: No Name
     2100002: 438503
     2100004: 25
@@ -9750,6 +9752,7 @@ ModelImporter:
     2306462: Box006
     2306464: Box007
     2306466: Box008
+    2306468: camera
     3300000: 462357
     3300002: 462605
     3300004: 462819
@@ -12984,6 +12987,7 @@ ModelImporter:
     3306462: Box006
     3306464: Box007
     3306466: Box008
+    3306468: camera
     4300000: Box005
     4300002: Box003
     4300004: 509616
@@ -16218,6 +16222,7 @@ ModelImporter:
     4306462: 547695
     4306464: 547696
     4306466: 558080
+    4306468: camera
   externalObjects: {}
   materials:
     importMaterials: 1

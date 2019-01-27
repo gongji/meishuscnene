@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1827516729
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: server
+      Dependencies: {}

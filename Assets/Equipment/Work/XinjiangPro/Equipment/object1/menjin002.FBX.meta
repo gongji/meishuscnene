@@ -13,7 +13,12 @@ ModelImporter:
     2300000: menjin002_body
     3300000: menjin002_body
     4300000: menjin002_body
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menjin002
+    second: {fileID: 2100000, guid: c5b808989f5bc534aab4f5c24236d856, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -13,7 +13,12 @@ ModelImporter:
     2300000: East_kongtiao_body
     3300000: East_kongtiao_body
     4300000: East_kongtiao_body
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: east_kongtiao
+    second: {fileID: 2100000, guid: 4d3df03742d34c74a94b4d2ef3ec2bef, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
