@@ -171,7 +171,7 @@ namespace Equipment
         protected static void BuildScene(string path, string levesName, string saveFileName)
         {
             string[] levels = { levesName };
-            string _path = path + "/" + saveFileName + ".unity3d";
+            string _path = path + "/" + saveFileName + ".abc";
             //打包场景  
             BuildPipeline.BuildPlayer(levels, _path, BuildTarget.WebGL, BuildOptions.BuildAdditionalStreamedScenes);
         }
